@@ -1,0 +1,62 @@
+[
+    {
+        "ticket_id": "TKT-2026-13898",
+        "priority": "HIGH",
+        "user_query": "want a refund for my software key right now!\"",
+        "chat_history": [
+            {
+                "role": "user",
+                "content": "want a refund for my software key right now!\""
+            }
+        ],
+        "status": "OPEN",
+        "assigned_to": "Unassigned",
+        "timestamp": "2026-04-24T16:07:55.272980",
+        "notes": "Auto-escalated by AI Support Assistant via LangGraph HITL node."
+    },
+    {
+        "ticket_id": "TKT-2026-17771",
+        "priority": "HIGH",
+        "user_query": "I want a refund for my software key right now !",
+        "chat_history": [
+            {
+                "role": "user",
+                "content": "I want a refund for my software key right now !"
+            }
+        ],
+        "status": "OPEN",
+        "assigned_to": "Unassigned",
+        "timestamp": "2026-04-25T11:12:35.355318",
+        "notes": "Auto-escalated by AI Support Assistant via LangGraph HITL node."
+    },
+    {
+        "ticket_id": "TKT-2026-81429",
+        "priority": "HIGH",
+        "user_query": "i want a refund for my software key right now !",
+        "chat_history": [
+            {
+                "role": "user",
+                "content": "i want a refund for my software key right now !"
+            }
+        ],
+        "status": "OPEN",
+        "assigned_to": "Unassigned",
+        "timestamp": "2026-04-25T11:33:14.714994",
+        "notes": "Auto-escalated by AI Support Assistant via LangGraph HITL node."
+    },
+    {
+        "ticket_id": "TKT-2026-76948",
+        "priority": "HIGH",
+        "user_query": "I want a refund for my software key right now!",
+        "chat_history": [
+            {
+                "role": "user",
+                "content": "I want a refund for my software key right now!"
+            }
+        ],
+        "status": "OPEN",
+        "assigned_to": "Unassigned",
+        "timestamp": "2026-04-25T14:23:07.759847",
+        "notes": "Auto-escalated by AI Support Assistant via LangGraph HITL node."
+    }
+]
