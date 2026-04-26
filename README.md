@@ -177,5 +177,5 @@ This project was built as a final internship/academic submission. Feel free to r
 
 ## 👤 Author
 
-**Arpit** — Final Year Internship Project  
+**Mayur** — Final Year Internship Project  
 Built with ❤️ using LangGraph, ChromaDB, and Groq
